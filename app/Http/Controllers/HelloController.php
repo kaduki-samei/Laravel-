@@ -9,7 +9,7 @@ $head = '<html><head>';
 $style = <<<EOF
 <style>
     body { font-size:16pt; color:#999; }
-    h1 { font-size:100pt; color:#eee; text-align:right; margin:-40px 0px -50px 0px }
+    h1 { font-size:101pt; color:#eee; text-align:right; margin:-40px 0px -50px 0px }
 </style>
 EOF;
 $body = '</head><body>';
